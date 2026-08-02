@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chraft_core.aternos.me",
-    "port": 47092,
+    "ip": "stammer-bronx.tun.ply.gg",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular Pornster",
         "Subscribe to Xzy DIP!",
-        "I like Sex!"
+        "I like Minecraft!"
       ]
     },
     "chat-log": true,
