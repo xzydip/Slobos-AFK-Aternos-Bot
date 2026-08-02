@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "XzyDIP24/7",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "XzyDIP24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Chraft_core.aternos.me",
+    "port": 47092,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a regular Pornster",
+        "Subscribe to Xzy DIP!",
+        "I like Sex!"
       ]
     },
     "chat-log": true,
