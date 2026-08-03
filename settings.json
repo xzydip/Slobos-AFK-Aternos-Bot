@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular Pornster",
+        "Subcribe to Xzy DIP",
         "Subscribe to Xzy DIP!",
-        "I like Minecraft!"
+        "Subcribe to Xzy DIP!"
       ]
     },
     "chat-log": true,
