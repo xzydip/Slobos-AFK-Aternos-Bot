@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chraft_core.aternos.me",
-    "port": 47092,
+    "ip": "xzysmp.mcsh.io",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
@@ -28,12 +28,10 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "Subcribe to Xzy DIP",
-        "Subscribe to Xzy DIP!",
-        "Subcribe to Xzy DIP!"
       ]
     },
     "chat-log": true,
