@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xzysmp.mcsh.io",
+    "ip": "xzysmp.play.hosting",
     "port": 19132,
     "version": "",
     "try-creative": false
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
@@ -68,7 +68,7 @@
   },
   "beds": {
     "pick-up-day": true,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
